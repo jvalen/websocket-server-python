@@ -8,6 +8,6 @@ Start server:
 $ python server.py
 ```
 
-Open client.html in the broser
+Open client.html in the browser
 
 
