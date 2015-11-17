@@ -1,13 +1,23 @@
 # WebSocket communication example in python
 
-Simple client/server WebSocket communication example using Autobahn|Python running on Twisted networking engine 
+Simple client/server WebSocket communication example using Autobahn|Python running on Twisted networking engine (python-twisted and pip install autobahn are required)
 
-Start server:
+1) Install:
+
+``` bash
+python-twisted module
+```
+
+``` bash
+pip install autobahn
+```
+
+2) Start server:
 
 ``` bash
 $ python server.py
 ```
 
-Open client.html in the browser
+3) Open client.html in the browser
 
 
